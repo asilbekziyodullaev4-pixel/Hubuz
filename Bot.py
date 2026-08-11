@@ -10,7 +10,7 @@ from aiogram.utils.executor import start_webhook
 # SOZLAMALAR
 # =========================
 
-\`API\_TOKEN = "8260817989 :AAEpfa0JupWX9ve7jLDd2L 4zNDdcXD12Jmk"
+API_TOKEN = "8260817989 :AAEpfa0JupWX9ve7jLDd2L 4zNDdcXD12Jmk"
 
 if not API_TOKEN:
     raise ValueError("BOT_TOKEN topilmadi!")
